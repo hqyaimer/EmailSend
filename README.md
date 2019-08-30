@@ -28,14 +28,18 @@ Options 选项
 函数/方法
 ----
 
-###发送邮件(收件人列表)
+### 发送邮件(收件人列表)
 
-`public bool Send(string title,string content)` - parameters[`title` - 标题 | `content` - 内容]
+`public bool Send(string title,string content)`
+
+parameters[`title` - 标题 | `content` - 内容]
 
 返回:是否发送成功
 
-###发送邮件(指定收件人)
+### 发送邮件(指定收件人)
 
-`public bool Send(string toemail, string title, string content)` - parameters[`toemail` - 收件邮箱 | `title` - 标题 | `content` - 内容]
+`public bool Send(string toemail, string title, string content)`
+
+parameters[`toemail` - 收件邮箱 | `title` - 标题 | `content` - 内容]
 
 返回:是否发送成功
