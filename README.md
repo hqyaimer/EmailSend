@@ -15,13 +15,13 @@ Options 选项
 
 `ToEmailList` - `List<string>` 类型，收件人列表，默认为空，可自行添加。
 
-`SubjectEncoding` - `Encoding` 类型，邮件主题编码，默认为UTF-8。
+`SubjectEncoding` - `Encoding` 类型，邮件主题编码，默认为`UTF-8`。
 
-`BodyEncoding` - `Encoding` 类型，邮件内容编码，默认为Default。
+`BodyEncoding` - `Encoding` 类型，邮件内容编码，默认为`Default`。
 
-`Priority` - `MailPriority` 类型，邮件优先级，默认为High。
+`Priority` - `MailPriority` 类型，邮件优先级，默认为`High`。
 
-`IsBodyHtml` - `bool` 类型，是否支持Html格式内容，默认为true。
+`IsBodyHtml` - `bool` 类型，是否支持Html格式内容，默认为`true`。
 
 `Attachments` - `List<Attachment>` 类型，附件列表，默认为空，可自行添加。
 
