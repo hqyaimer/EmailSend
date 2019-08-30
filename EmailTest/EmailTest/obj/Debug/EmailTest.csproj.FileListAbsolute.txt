@@ -1,0 +1,8 @@
+E:\Project\C#\EmailTest\EmailTest\bin\Debug\EmailTest.exe.config
+E:\Project\C#\EmailTest\EmailTest\bin\Debug\EmailTest.exe
+E:\Project\C#\EmailTest\EmailTest\bin\Debug\EmailTest.pdb
+E:\Project\C#\EmailTest\EmailTest\obj\Debug\EmailTest.csprojResolveAssemblyReference.cache
+E:\Project\C#\EmailTest\EmailTest\obj\Debug\EmailTest.exe
+E:\Project\C#\EmailTest\EmailTest\obj\Debug\EmailTest.pdb
+E:\Project\C#\EmailTest\EmailTest\bin\Debug\EmailSend.dll
+E:\Project\C#\EmailTest\EmailTest\bin\Debug\EmailSend.pdb

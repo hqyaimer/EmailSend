@@ -1,0 +1,4 @@
+E:\Project\C#\EmailSend\EmailSend\bin\Release\EmailSend.dll
+E:\Project\C#\EmailSend\EmailSend\bin\Release\EmailSend.pdb
+E:\Project\C#\EmailSend\EmailSend\obj\Release\EmailSend.dll
+E:\Project\C#\EmailSend\EmailSend\obj\Release\EmailSend.pdb
